@@ -52,7 +52,7 @@ Flutterda jamoamiz bilan qilgan applicationimiz.
   <img src="hhttps://github.com/KattaDev/imtixonuchinchi/blob/main/rasm/photo_2021-10-19_20-37-29.jpg?raw=true"
      alt="Onboarding page"
      style="float: left; margin-right: 10px;" width="200" />
- ###Login Page 
+ 
  </br>
  </br>
   
