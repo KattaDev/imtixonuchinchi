@@ -22,7 +22,7 @@ Flutterda jamoamiz bilan qilgan applicationimiz.
 ## Dastur Haqida
 ### Dasturning ishlash holati 👇
 
-# Video
+# Video Ko'rish uchun rasmga bosing
 
 [![IMAGE ALT TEXT HERE](https://github.com/KattaDev/imtixonuchinchi/blob/main/rasm/photo_2021-10-19_20-37-38.jpg?raw=true)](https://youtu.be/8v3qMHB0feg)
 </br>
