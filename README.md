@@ -24,7 +24,7 @@ Flutterda jamoamiz bilan qilgan applicationimiz.
 
 # Video
 
-[![IMAGE ALT TEXT HERE](https://i.ibb.co/Tccm741/screen-marvie.png)](https://youtu.be/ZWHKI8Y3xKs)
+[![IMAGE ALT TEXT HERE](https://github.com/KattaDev/imtixonuchinchi/blob/main/rasm/photo_2021-10-19_20-37-38.jpg?raw=true)](https://youtu.be/8v3qMHB0feg)
 </br>
 </br>
 # Applicationda sahifalari rasmlarda: 
