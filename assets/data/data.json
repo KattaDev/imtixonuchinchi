@@ -1,0 +1,21 @@
+[{
+    "savol":"O'zbekiston poytaxti qayer?",
+    "javoblar":["Toshkent","Astana","Dushanbe"],
+    "javob":0
+},{
+    "savol":"Qozoqiston poytaxti qayer?",
+    "javoblar":["Toshkent","Astana","Dushanbe"],
+    "javob":1
+},{
+    "savol":"Tojikkiston poytaxti qayer?",
+    "javoblar":["Toshkent","Astana","Dushanbe"],
+    "javob":2
+},{
+    "savol":"Turkmaniston poytaxti qayer?",
+    "javoblar":["Toshkent","Astana","Ashxabod"],
+    "javob":2
+},{
+    "savol":"Qirg'iziston poytaxti qayer?",
+    "javoblar":["Toshkent","Bishkek","Dushanbe"],
+    "javob":1
+}]
