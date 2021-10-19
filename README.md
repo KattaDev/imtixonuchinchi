@@ -140,7 +140,7 @@ Flutterda jamoamiz bilan qilgan applicationimiz.
  </br>
  </br>
   
-  <img src="https://ibb.co/7pDf75X"
+  <img src="https://github.com/KattaDev/imtixonuchinchi/blob/main/rasm/photo_2021-10-19_20-37-38.jpg?raw=true"
      alt="Onboarding page"
      style="float: left; margin-right: 10px;" width="200" />
  ### Feed Page 3 
